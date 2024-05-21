@@ -51,7 +51,8 @@ The CT images were collected from the Picture Archiving and Communication System
 |Stone	|1,377|
 |Tumor|	2,283|
 
-![1.jpg](Cyst) ![2.jpg](Normal) ![3.jpg](Stone) ![4.jpg](Tumor)
+![Cyst](1.jpg) ![Normal](2.jpg) ![Stone](3.jpg) ![Tumor ](4.jpg)
+
 ***Figure 1: CT KIDNEY DATASET Sample***
 
 ### Kidney Stone Detection Dataset
@@ -68,6 +69,7 @@ The dataset comprised 433 subjects: 278 with kidney stones (790 images) and 165 
 |Stone	|1009|
 
 ![Stone](5.png)![Normal](6.png)
+
 ***Figure 2: Kidney Stone Detection Dataset sample***
 
 ## Technologies
