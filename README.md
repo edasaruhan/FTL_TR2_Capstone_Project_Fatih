@@ -78,11 +78,7 @@ The dataset comprised 433 subjects: 278 with kidney stones (790 images) and 165 
 |Normal	|790|
 |Stone	|1009|
 
-![Stone](5.png)
-- Stone
-
-![Normal](6.png)
-- Normal
+![Stone](5.png) - Stone ![Normal](6.png) - Normal
 
 ***Figure 2: Kidney Stone Detection Dataset sample***
 
